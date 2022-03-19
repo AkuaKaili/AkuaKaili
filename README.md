@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @AkuaKaili
+- 👋 Hi, I’m @Kaili-dev
 - 👀 I’m interested in coding (obviously), and gaming.
 - 🌱 I’m currently learning how to develop games with Javascript
