@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Kaili-dev
+- 👋 Hi, I’m @devKaili, formally known as Kaili.
 - 👀 I’m interested in coding (obviously), and gaming.
-- 🌱 I’m currently learning how to develop games with Javascript
+- 🌱 I’m currently learning how to develop web applications with HTML and JS.
