@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @devKaili, formally known as Kaili.
--  ![FlagCzechGIF](https://user-images.githubusercontent.com/99561766/165913320-36514fe5-d402-4d53-b6d4-c03e16c4d1f5.gif)
-I live in Czechia
+- ![image](https://user-images.githubusercontent.com/99561766/165913464-ba8845f8-c457-4543-a947-8f70ad1c67f1.png) I live in Czechia
 - 👀 I’m interested in coding (obviously), and gaming.
 - 🌱 I’m currently learning Python development.
