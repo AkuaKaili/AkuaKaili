@@ -2,4 +2,4 @@
 - 🏠 I live in Czechia
 - 👀 I’m interested in coding (obviously), and gaming.
 - 🌱 I’m currently learning Python development.
-![Alt Text](https://giphy.com/gifs/theoffice-the-office-tv-whistleblower-KnrMjMUsuIs2tjdU9o)
+![Alt Text](https://media.giphy.com/media/KnrMjMUsuIs2tjdU9o/giphy.gif)
