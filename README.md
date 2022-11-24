@@ -1,4 +1,4 @@
 - ![Peepo Hey](peepoHey.gif)
-- 👋 Hi, I’m @devKaili, formally known as Kaili and I code for fun.
+- 👋 Hi, I’m Kaili and I code for fun.
 - 🏠 I live in Czechia
 - Currently I'm learning Python for personal projects and C/C++ school
