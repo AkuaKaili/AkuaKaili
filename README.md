@@ -1,3 +1,3 @@
 ![Peepo Hey](peepoHey.gif)
 
-* *Profile pic by @limonadovyjoe on Discord.
+* *Profile pic by *@limonadovyjoe* on Discord.
